@@ -1,1 +1,3 @@
-# 987c8c0c77f34d45316b7275ad75d9e5
+# LEGAL NOTICES
+
+https://www.architeer.com/legalnotices.html
